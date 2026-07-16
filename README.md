@@ -34,7 +34,7 @@ A RESTful backend application built with **Spring Boot**, **Spring Data JPA**, a
 
 ## Project Structure
 
-```
+```text
 src
 └── main
     ├── java
@@ -78,7 +78,32 @@ src
 
 ## Testing
 
-All REST APIs were tested using **Postman**.
+All REST APIs were tested using Postman.
+
+---
+
+## Screenshots
+
+### Get All Expenses
+![Get All Expenses](images/get-all-expenses.png)
+
+### Create Expense
+![Create Expense](images/create-expense.png)
+
+### Get Expense by ID
+![Get Expense by ID](images/get-expense-by-id.png)
+
+### Search by Category
+![Search by Category](images/search-category.png)
+
+### Search by Date
+![Search by Date](images/search-date.png)
+
+### Total Expenses
+![Total Expenses](images/total-expenses.png)
+
+### MySQL Workbench
+![MySQL Workbench](images/mysql-table.png)
 
 ---
 
@@ -90,7 +115,9 @@ All REST APIs were tested using **Postman**.
 - User authentication and authorization
 
 ---
-## Author :
+
+## Author
+
 **Aditi Maurya**
 
-GitHub: https://github.com/aditimauryawork-oss
+GitHub: [aditimauryawork-oss](https://github.com/aditimauryawork-oss)

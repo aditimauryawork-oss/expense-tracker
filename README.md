@@ -90,10 +90,7 @@ All REST APIs were tested using **Postman**.
 - User authentication and authorization
 
 ---
-## Author : **Aditi Maurya**
-
-GitHub: https://github.com/aditimauryawork-oss
-
+## Author :
 **Aditi Maurya**
 
 GitHub: https://github.com/aditimauryawork-oss
